@@ -1,10 +1,7 @@
 import {StatusBar} from 'expo-status-bar';
 import {TailwindProvider} from 'tailwindcss-react-native';
-<<<<<<< HEAD
-=======
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
->>>>>>> 94c408585a71caf89d102f51207e1089718a18f3
 import React from 'react';
 import Toast from 'react-native-toast-message';
 import OnBoard from './src/components/OnBoard';
